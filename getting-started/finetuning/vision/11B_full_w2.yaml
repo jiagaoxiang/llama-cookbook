@@ -91,7 +91,7 @@ profiler:
   cpu: true
   cuda: true
   profile_memory: false
-  with_stack: false
+  with_stack: true
   record_shapes: true
   with_flops: false
   wait_steps: 10
